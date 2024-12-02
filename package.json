@@ -1,0 +1,17 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "description": "A simple template for small TS projects",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.7"
+  }
+}
